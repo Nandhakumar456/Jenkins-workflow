@@ -6,7 +6,7 @@ This project demonstrates a fully automated **Continuous Integration and Continu
 ## 🏗️ Architecture Diagram
 Below is the visual representation of the automated workflow I designed:
 
-![Jenkins Architecture Diagram](./jenkins-architecture.png)
+![Jenkins Architecture Diagram](.jenkins-architecture.png)
 
 ## 🚀 Workflow Steps
 As illustrated in the diagram above, the pipeline follows these four critical stages:
